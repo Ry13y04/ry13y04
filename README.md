@@ -1,8 +1,7 @@
-### Welcome to my GitHub profile!
+### Ry13y04's GitHub
 
-- 🌱 Currently learning HTML and JavaScript
+- 🌱 Currently learning HTML
 - 📫 You can reach out to me via Discord, Ry13y04#9496
-- ⚡ Fun fact, I love to mod games. Seriously.
 
 <!--
 **Ry13y04/ry13y04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
