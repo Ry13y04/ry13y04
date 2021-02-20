@@ -5,3 +5,10 @@
 * **Storage**: Samsung 860 EVO 500GB SSD
 * **Memory**: Corsair 8GB
 * **Motherboard**: ASUS A85XM-A
+
+### Laptop Specs
+* **CPU**: Intel Core i3-1005G1 CPU @ 1.20GHz
+* **GPU**: Intel UHD Graphics
+* **Storage**: Kioxia KBG40ZNV256G (256GB)
+* **Memory**: 4GB
+* **Motherboard**: N/A
