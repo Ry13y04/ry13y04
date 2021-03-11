@@ -13,4 +13,4 @@
 * **Storage**: Kioxia KBG40ZNV256G (*256GB*)
 * **Memory**: Unknown Brand (*4GB*)
 * **Motherboard**: N/A
-* **OS**: Windows 10 Home
+* **OS**: Windows 10 Home & Linux Mint
